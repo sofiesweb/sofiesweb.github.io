@@ -1,0 +1,52 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(102, 93, 75);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(192, 185, 171, 0.432);
+    text-align: center;
+    padding-bottom: 0.1px;
+    padding-top: 0.1px;
+}
+
+nav {
+    margin-left: 40px;
+    background-color: rgba(202, 197, 182, 0.37);
+    width: 13.5%;
+    border: 3px solid rgb(172, 153, 145);
+    border-radius: 7px;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
+
+section {
+    background-color: rgba(202, 197, 182, 0.37);
+    border: 3px solid rgb(172, 153, 145);
+    border-radius: 7px;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
+
+body {
+    background-image: url("https://www.staron.com/File/imageView.do?fileName=1487729549417_1.jpg");
+}
+
+img {
+    border-radius: 10px
+}
+
+div {
+    margin-left: 20px;
+}
+
+div.headers {
+    margin-left: 40px;
+}
+
+div.headersections {
+    
+}
